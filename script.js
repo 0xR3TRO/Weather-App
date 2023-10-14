@@ -1,3 +1,4 @@
+// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved.
 const apiKey = "a4b412bd546a12b98db3ad0ba089f9e0";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
